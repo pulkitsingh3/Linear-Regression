@@ -13,8 +13,8 @@
 ## General Information
 - Provide general information about your project here.
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- We have to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the  demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+- Bike Sharing dataset is used.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -22,6 +22,7 @@
 - Feeling Temperature(atemp): A coefficient value of ‘0.535’ indicates that a temperature has significant impact on bike rentals.
 - Light_rainsnow: A coefficient value of ‘-0.237’ indicates that the light snow and rain deters people from renting out bikes.
 - Year (yr): A coefficient value of ‘0.231’ indicates that a year wise the rental numbers are increasing.
+- Demands increases in the month of Aug, Sep, season of Summer, Winter, day of Saturday, yr.
 - Demands decreases in the month of Jan, Light_rainsnow, Misty, hum, windspeed.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
