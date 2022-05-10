@@ -19,10 +19,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Feeling Temperature(atemp): A coefficient value of ‘0.535’ indicates that a temperature has significant impact on bike rentals.
+- Light_rainsnow: A coefficient value of ‘-0.237’ indicates that the light snow and rain deters people from renting out bikes.
+- Year (yr): A coefficient value of ‘0.231’ indicates that a year wise the rental numbers are increasing.
+- Demands decreases in the month of Jan, Light_rainsnow, Misty, hum, windspeed.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
