@@ -19,6 +19,9 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Technologies Used
+- Python - version 3
+
 ## Conclusions
 - Feeling Temperature(atemp): A coefficient value of ‘0.535’ indicates that a temperature has significant impact on bike rentals.
 - Light_rainsnow: A coefficient value of ‘-0.237’ indicates that the light snow and rain deters people from renting out bikes.
@@ -28,11 +31,6 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
